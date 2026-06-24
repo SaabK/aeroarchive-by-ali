@@ -21,13 +21,7 @@ A curated collection of aerospace engineering resources, software, courses, book
 * CFD & Simulation
 * Programming
 * Aircraft Design
-* Propulsion
-* Structures
-* Mathematics
-* Physics
-* Research
 * Learning Platforms
-* Engineering Books
 
 ## Tech Stack
 
@@ -44,21 +38,13 @@ Archive by Ali brings them together in one organized place.
 
 ## Future Plans
 
-* Internship database
-* Scholarship database
-* Engineering calculators
-* Formula library
-* Career roadmaps
 * Research collections
 * Community recommendations
+* National competitions database
 
 ## Contributing
 
 Suggestions for new resources are welcome.
-
-## License
-
-MIT License
 
 ---
 
